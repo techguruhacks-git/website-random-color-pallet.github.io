@@ -1,4 +1,6 @@
 # website-random-color-pallet.github.io
+
+Disclaimer: Made with the help of Tutorials and i changed the user interface and add some my own features.
  
 Welcome to the Color palette website!
 this project is a web based application that helps users find and copy hex color codes for their projects, design or  inspiration. it features a simple interface with multiple color palettes and an easy-to -use hex code copying functionality.
